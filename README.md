@@ -9,7 +9,7 @@
 
 [UT05-06-07-08: Programación Orientada a Objetos + Excepciones](https://github.com/alvarocimadevilla/Programacion-Inicio/tree/main/Programacion-05)
 
-[UT09: Colecciones de datos]([https://github.com/alvarocimadevilla/Programacion-06](https://github.com/alvarocimadevilla/Programacion-Inicio/tree/main/Programacion-06)
+[UT09: Colecciones de datos](https://github.com/alvarocimadevilla/Programacion-Inicio/tree/main/Programacion-06)
 
 [UT10-11: Lectura y escritura de información](https://github.com/alvarocimadevilla/Programacion-Inicio/tree/main/Programacion-07)
 
