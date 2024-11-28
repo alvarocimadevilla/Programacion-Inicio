@@ -524,7 +524,7 @@ https://www.arold.es/java-nio2-ejemplos/
 
 ## Página principal del curso
 
-[VOLVER PÁGINA PRINCIPAL](https://github.com/Trinal17/Programacion)
+[VOLVER PÁGINA PRINCIPAL](https://github.com/alvarocimadevilla/Programacion-Inicio/tree/main)
 
 ## Licencia
 
