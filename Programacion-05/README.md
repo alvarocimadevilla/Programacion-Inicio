@@ -36,7 +36,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 ## Página principal del curso
 
-[VOLVER PÁGINA PRINCIPAL](https://github.com/Trinal17/Programacion)
+[VOLVER PÁGINA PRINCIPAL](https://github.com/alvarocimadevilla/Programacion-Inicio/tree/main)
 
 ## Licencia
 
