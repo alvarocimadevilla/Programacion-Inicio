@@ -10,7 +10,7 @@ Teoría en el aula virtual: https://aulavirtual3.educa.madrid.org/ies.alonsodeav
 
 ## Página principal del curso
 
-[VOLVER PÁGINA PRINCIPAL](https://github.com/Trinal17/Programacion)
+[VOLVER PÁGINA PRINCIPAL](https://github.com/alvarocimadevilla/Programacion-Inicio/tree/main)
 
 ## Licencia
 
